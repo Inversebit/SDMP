@@ -1,9 +1,14 @@
-SDMP
+Super Duper Mega Pong (SDMP)
 ====
 
 A simple imitation of the game Pong originally developed by Atari.
 
 This clone has been created with [libgdx](https://github.com/libgdx/libgdx), with the purpose of learning the workings of that engine.
+
+Warning
+-------
+In its current state this game contains flashing lights which may not be suitable for photosensitive epilepsy.
+
 
 License
 -------
